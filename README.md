@@ -11,6 +11,7 @@ CLIP (Contrastive Language-Image Pre-training) is a neural network-based model d
 
 <img src="https://github.com/justin-sem/ug_fyd_observation_segmentation/assets/93218385/af14444c-2a71-4f18-b906-030d8ecb02a2" alt="image" width="600"/>
 
-
+All the experiments are designed and developed in Jupyter Notebook which can be found in the *src* folder.
+The textLabels folder includes 3 sets of texts queries which are used in the experiments, which are ImageCIFARTOP5, lowlevelic and insectDomainClass. User will need to change manually in the code itself if want to tests with differen text queries.
 
 *SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF BACHELOR OF SCIENCE IN COMPUTER SCIENCE HONOURS THE UNIVERSITY OF NOTTINGHAM*
